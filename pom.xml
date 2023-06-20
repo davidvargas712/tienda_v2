@@ -11,7 +11,7 @@
     <groupId>com.tienda</groupId>
     <artifactId>Tienda</artifactId>
     <version>1</version>
-    <name>Tienda_v2</name>
+    <name>Tienda</name>
     <description>proyecto hecho en el curso web y protones</description>
     <properties>
         <java.version>19</java.version>
